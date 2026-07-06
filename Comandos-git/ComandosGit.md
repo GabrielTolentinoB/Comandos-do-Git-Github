@@ -17,9 +17,9 @@ tags: ["git", "github", "mermaid", "branch", "conceitos"]
 ou
 
 ```javascript
-  git clone URL (Repositório remoto)
+  git clone URL 
 ```
-  Para clonar de um repositório remoto para sua maquina.
+  URL do Repositório remoto - Para clonar de um repositório remoto para sua maquina.
 
 ##
 
